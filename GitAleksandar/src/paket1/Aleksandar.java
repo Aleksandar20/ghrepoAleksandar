@@ -6,7 +6,11 @@ public class Aleksandar {
 		// TODO Auto-generated method stub
 		//commentar
 		System.out.println("Djordje - izmena");
+
 		System.out.println("Djordje izmena 2");
+
+		System.out.println("Aleksandar - izmena");
+
 		
 		
 	}
